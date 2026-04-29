@@ -75,4 +75,8 @@
     <string name="chucker_copy_response">Copiar Respuesta</string>
     <string name="chucker_response_copied">Respuesta Copiadad</string>
     <string name="chucker_request_copied">Solicitud Copiadad</string>
+    <string name="chucker_copy_raw">Copiar Sin Formato</string>
+    <string name="chucker_copy_formatted">Copiar Con Formato</string>
+    <string name="chucker_request_copied_formatted">Solicitud Con Formato Copiada</string>
+    <string name="chucker_response_copied_formatted">Respuesta Con Formato Copiada</string>
 </resources>

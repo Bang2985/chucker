@@ -75,4 +75,8 @@
     <string name="chucker_copy_response">Копировать ответ</string>
     <string name="chucker_response_copied">Ответ скопирован</string>
     <string name="chucker_request_copied">Запрос скопирован</string>
+    <string name="chucker_copy_raw">Копировать как есть</string>
+    <string name="chucker_copy_formatted">Копировать с форматированием</string>
+    <string name="chucker_request_copied_formatted">Запрос скопирован с форматированием</string>
+    <string name="chucker_response_copied_formatted">Ответ скопирован с форматированием</string>
 </resources>

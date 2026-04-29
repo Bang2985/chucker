@@ -76,4 +76,8 @@
     <string name="chucker_copy_response">Copy Response</string>
     <string name="chucker_response_copied">Response Copied</string>
     <string name="chucker_request_copied">Request Copied</string>
+    <string name="chucker_copy_raw">Copy Raw</string>
+    <string name="chucker_copy_formatted">Copy Formatted</string>
+    <string name="chucker_request_copied_formatted">Formatted Request Copied</string>
+    <string name="chucker_response_copied_formatted">Formatted Response Copied</string>
 </resources>
